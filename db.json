@@ -1,0 +1,147 @@
+
+[
+  {
+    "id": 1,
+    "team": "Maccabi Tel Aviv",
+    "name": "DanielTenenbaum",
+    "overall": "84",
+    "position": "GK",
+    "attributes": {
+      "div": "84",
+      "han": "85",
+      "ref": "82",
+      "spd": "70",
+      "kic": "86",
+      "pas": "70"
+    }
+  },
+  {
+    "id": 2,
+    "team": "Maccabi Tel Aviv",
+    "name": "AndreaGeraldes",
+    "overall": "84",
+    "position": "DEF",
+    "attributes": {
+      "spd": "88",
+      "sho": "67",
+      "pas": "82",
+      "dri": "84",
+      "def": "87",
+      "phs": "72"
+      }
+  },
+  {
+    "id": 3,
+    "team": "Maccabi Tel Aviv",
+    "name": "EyalGolasa",
+    "overall": "88",
+    "position": "MID",
+    "attributes": {
+      "spd": "83",
+      "sho": "80",
+      "pas": "82",
+      "dri": "88",
+      "def": "87",
+      "phs": "89"
+      }
+  },
+  {
+"id": 4,
+    "team": "Maccabi Tel Aviv",
+    "name": "YonatanCohen",
+    "overall": "88",
+    "position": "ATT",
+    "attributes": {
+      "spd": "88",
+      "sho": "89",
+      "pas": "82",
+      "dri": "88",
+      "def": "50",
+      "phs": "70"
+    }
+  },
+  {
+  "id": 2,
+      "team": "Maccabi Tel Aviv",
+      "name": "AndreaGeraldes",
+      "position": "DEF",
+      "attributes": {
+        "spd": "88",
+        "sho": "67",
+        "pas": "82",
+        "dri": "84",
+        "def": "87",
+        "phs": "72"
+      }
+  },
+  {
+    "id": 2,
+    "team": "Maccabi Tel Aviv",
+    "name": "AndreaGeraldes",
+    "position": "DEF",
+    "attributes": {
+      "spd": "88",
+      "sho": "67",
+      "pas": "82",
+      "dri": "84",
+      "def": "87",
+      "phs": "72"
+      }
+  },
+  {
+    "id": 2,
+    "team": "Maccabi Tel Aviv",
+    "name": "AndreaGeraldes",
+    "position": "DEF",
+    "attributes": {
+      "spd": "88",
+      "sho": "67",
+      "pas": "82",
+      "dri": "84",
+      "def": "87",
+      "phs": "72"
+      }
+  },
+  {
+   "id": 2,
+    "team": "Maccabi Tel Aviv",
+    "name": "AndreaGeraldes",
+    "position": "DEF",
+    "attributes": {
+      "spd": "88",
+      "sho": "67",
+      "pas": "82",
+      "dri": "84",
+      "def": "87",
+      "phs": "72"
+      }
+  },
+  {
+   "id": 2,
+    "team": "Maccabi Tel Aviv",
+    "name": "AndreaGeraldes",
+    "position": "DEF",
+    "attributes": {
+      "spd": "88",
+      "sho": "67",
+      "pas": "82",
+      "dri": "84",
+      "def": "87",
+      "phs": "72"
+      }
+  },
+  {
+   "id": 2,
+    "team": "Maccabi Tel Aviv",
+    "name": "AndreaGeraldes",
+    "position": "DEF",
+    "attributes": {
+      "spd": "88",
+      "sho": "67",
+      "pas": "82",
+      "dri": "84",
+      "def": "87",
+      "phs": "72"
+      }
+  }
+]
